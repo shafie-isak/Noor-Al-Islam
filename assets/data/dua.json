@@ -1,0 +1,65 @@
+{
+	"duas": [
+	  {
+		"title": "Morning Adhkar",
+		"image": "assets/images/dua_images/morningthikr.svg",
+		"sub_duas": [
+			{
+				"title": "Ayat al-Kursi: The Greatest Protection",
+				"arabicDua": "أَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ. اَللّٰهُ لَآ إِلٰهَ إِلَّا هُوَ الْحَىُّ الْقَيُّوْمُ ، لَا تَأْخُذُهُۥ سِنَةٌ وَّلَا نَوْمٌ ، لَهُ مَا فِى السَّمٰـوٰتِ وَمَا فِى الْأَرْضِ ، مَنْ ذَا الَّذِىْ يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِۦ ، يَعْلَمُ مَا بَيْنَ أَيْدِيْهِمْ وَمَا خَلْفَهُمْ ، وَلَا يُحِيْطُوْنَ بِشَىْءٍ مِّنْ عِلْمِهِٓ إِلَّا بِمَا شَآءَ ، وَسِعَ كُرْسِيُّهُ السَّمٰـوٰتِ وَالْأَرْضَ، وَلَا يَئُوْدُهُۥ حِفْظُهُمَا ، وَهُوَ الْعَلِىُّ الْعَظِيْمُ",
+				"translation": "I seek the protection of Allah from the accursed Shayṭān. Allah, there is no god worthy of worship but He, the Ever Living, The Sustainer of all. Neither drowsiness overtakes Him nor sleep. To Him Alone belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except with His permission? He knows what is before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursī extends over the heavens and the earth, and their preservation does not tire Him. And He is the Most High, the Magnificent. (2:255)",
+				"repeat": 3,
+				"audio": "assets/audio/Ayat_al-Kursi.mp3"
+			},
+			{
+				"title": "3 Quls: Be Sufficed in All Your Matters",
+				"arabicDua": "(سيد الاستغفار) اَللّٰهُمَّ أَنْتَ رَبِّيْ لَا إِلٰهَ إِلَّا أَنْتَ ، خَلَقْتَنِيْ وَأَنَا عَبْدُكَ ، وَأَنَا عَلَىٰ عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ ، أَعُوْذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ ، أَبُوْءُ لَكَ بِنِعْمَتِكَ عَلَيَّ وَأَبُوْءُ لَكَ بِذَنْبِيْ ، فَاغْفِرْ لِيْ فَإِنَّهُ لَا يَغْفِرُ الذُّنُوْبَ إِلَّا أَنْتَ.",
+				"translation": "All praise is due to Allah...",
+				"repeat": 3,
+				"audio": "assets/audio/3_Quls.mp3"
+			}
+		]
+	  },
+	  {
+		"title": "Evening Adhkar",
+		"image": "assets/images/dua_images/eveningadhkar.svg"
+		
+	  },
+	  {
+		"id": 1002,
+		"title": "Before Sleep",
+		"image": "assets/images/dua_images/beforesleep.svg"
+	  },
+	  {
+		"id": 1003,
+		"title": "Salah",
+		"image": "assets/images/dua_images/salah.svg"
+	  },
+	  {
+		"id": 1004,
+		"title": "Salawat",
+		"image": "assets/images/dua_images/salawat.svg"
+	  },
+	  {
+		"id": 1005,
+		"title": "After Salah",
+		"image": "assets/images/dua_images/aftersalah.svg"
+	  },
+	  {
+		"id": 1006,
+		"title": "Ruqyah & Illness",
+		"image": "assets/images/dua_images/ruqyahandillness.svg"
+	  },
+	  {
+		"id": 1007,
+		"title": "Praises of Allah",
+		"image": "assets/images/dua_images/praises.svg"
+	  },
+	  {
+		"id": 1008,
+		"title": "Salawat",
+		"image": "assets/images/dua_images/salawat.svg"
+	  }
+	]
+  }
+  
